@@ -133,7 +133,7 @@ namespace Logo_Formative
 
            // formGraphics.FillEllipse(yellowBrush, 10, 20, 50, 50);
 
-            formGraphics.FillPie(yellowBrush, 10, 20, 50, 50, 120, 300);
+            formGraphics.FillPie(yellowBrush, 10, 20, 40, 50, 120, 300);
 
 
         }
